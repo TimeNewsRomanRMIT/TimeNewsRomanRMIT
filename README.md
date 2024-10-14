@@ -1,4 +1,6 @@
 ## Hi there 👋
+I’m currently teaching at Royal Melbourne Institute of Technology, Vietnam (RMIT for short)
+Let's see how it goes
 
 <!--
 **TimeNewsRomanRMIT/TimeNewsRomanRMIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
